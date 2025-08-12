@@ -6,6 +6,7 @@ This project aims to develop a predictive model for estimating house prices usin
 The primary objective is to understand the relationship between these independent variables and the target variable (house price), and to build a regression model that can accurately forecast prices for new data.
 
 Methodology:
+
 Data Exploration:
 
 Loaded the housing dataset and inspected its structure.
