@@ -1,5 +1,6 @@
 # Linear-Regression
 Description:
+
 This project aims to develop a predictive model for estimating house prices using the Linear Regression algorithm. The dataset, Housing.csv, contains various features that influence the selling price of houses, such as the number of bedrooms, bathrooms, square footage of living area, lot size, number of floors, and other property-related attributes.
 
 The primary objective is to understand the relationship between these independent variables and the target variable (house price), and to build a regression model that can accurately forecast prices for new data.
